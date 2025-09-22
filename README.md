@@ -1,2 +1,2 @@
 # Book-Management-System
-This project is developed by using the technologies Java,Spring boot
+This project is developed by using the technologies Java,Spring boot and MySQL
